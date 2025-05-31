@@ -239,7 +239,8 @@
 }
 
 .input {
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     height: 40px;
     font-size: 16px;
     padding: 5px;
