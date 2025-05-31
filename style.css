@@ -276,4 +276,7 @@
     .service-container-2 {
         flex-direction: column;
     }
+    .contactus {
+        width: 95%;
+        padding: 20px;
 }
