@@ -239,7 +239,7 @@
 }
 
 .input {
-    width: 100%;
+    width: 430px;
     max-width: 500px;
     height: 40px;
     font-size: 16px;
@@ -277,7 +277,4 @@
     .service-container-2 {
         flex-direction: column;
     }
-    .contactus {
-        width: 95%;
-        padding: 20px;
 }
